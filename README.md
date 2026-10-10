@@ -4,8 +4,11 @@ A cheerful first-person food shop game that teaches K–3 kids to check their ch
 
 ## Play
 
-Open `index.html` in any modern browser — no build step, no dependencies. Works on phones and computers.
+- **https://making-change-game.vercel.app** (Vercel)
+- **https://hayashijc-ai.github.io/making-change-game/** (GitHub Pages)
+
+Open either link in any modern browser — no build step, no dependencies. Works on phones and computers.
 
 ## Deploy
 
-This is a single static file, ready for Vercel's free tier: import this repo in Vercel and deploy. No build command needed.
+This is a single static file (`index.html`), ready for Vercel's free tier or GitHub Pages. No build command needed. The Vercel project is connected to this repo, so every push to `main` redeploys automatically.
